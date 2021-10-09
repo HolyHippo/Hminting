@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hminting/static/css/main.2e45339f.chunk.css",
+    "main.js": "/Hminting/static/js/main.e765d7e1.chunk.js",
+    "main.js.map": "/Hminting/static/js/main.e765d7e1.chunk.js.map",
+    "runtime-main.js": "/Hminting/static/js/runtime-main.4102c362.js",
+    "runtime-main.js.map": "/Hminting/static/js/runtime-main.4102c362.js.map",
+    "static/js/2.061a06d9.chunk.js": "/Hminting/static/js/2.061a06d9.chunk.js",
+    "static/js/2.061a06d9.chunk.js.map": "/Hminting/static/js/2.061a06d9.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/Hminting/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/Hminting/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/Hminting/index.html",
+    "static/css/main.2e45339f.chunk.css.map": "/Hminting/static/css/main.2e45339f.chunk.css.map",
+    "static/js/2.061a06d9.chunk.js.LICENSE.txt": "/Hminting/static/js/2.061a06d9.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/Hminting/static/media/1.75f03515.png",
+    "static/media/reset.css": "/Hminting/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4102c362.js",
+    "static/js/2.061a06d9.chunk.js",
+    "static/css/main.2e45339f.chunk.css",
+    "static/js/main.e765d7e1.chunk.js"
+  ]
+}
